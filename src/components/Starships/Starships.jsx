@@ -21,10 +21,10 @@ const Starships = ({ starships }) => {
     getinfoStarship();
   }, []);
 
-  // useEffect(() => {
-  //   setStarship('');
-  //   getinfoStarship();
-  // }, [starships]);
+  useEffect(() => {
+    setStarship('');
+    getinfoStarship();
+  }, [starships]);
 
   return (
     <div>
