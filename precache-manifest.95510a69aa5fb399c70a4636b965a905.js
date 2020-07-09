@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d3c675638d0aa6de09dcb5b64dcb271f",
+    "revision": "a29e9f0452a8ef6c537af5fffc102a84",
     "url": "/starwars-finder/index.html"
   },
   {
-    "revision": "74e81719ffa38d2627aa",
+    "revision": "39a7f3319c199e2be5c6",
     "url": "/starwars-finder/static/css/main.ab646d28.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/starwars-finder/static/js/2.e7179aaa.chunk.js"
   },
   {
-    "revision": "74e81719ffa38d2627aa",
-    "url": "/starwars-finder/static/js/main.2c289fc5.chunk.js"
+    "revision": "39a7f3319c199e2be5c6",
+    "url": "/starwars-finder/static/js/main.140cf163.chunk.js"
   },
   {
     "revision": "16fe017c605dc076ad5e",

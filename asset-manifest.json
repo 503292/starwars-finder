@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/starwars-finder/static/css/main.ab646d28.chunk.css",
-    "main.js": "/starwars-finder/static/js/main.2c289fc5.chunk.js",
-    "main.js.map": "/starwars-finder/static/js/main.2c289fc5.chunk.js.map",
+    "main.js": "/starwars-finder/static/js/main.140cf163.chunk.js",
+    "main.js.map": "/starwars-finder/static/js/main.140cf163.chunk.js.map",
     "runtime-main.js": "/starwars-finder/static/js/runtime-main.4ef2e4bf.js",
     "runtime-main.js.map": "/starwars-finder/static/js/runtime-main.4ef2e4bf.js.map",
     "static/js/2.e7179aaa.chunk.js": "/starwars-finder/static/js/2.e7179aaa.chunk.js",
     "static/js/2.e7179aaa.chunk.js.map": "/starwars-finder/static/js/2.e7179aaa.chunk.js.map",
     "index.html": "/starwars-finder/index.html",
-    "precache-manifest.4fdacaea8eadf7fff5d66e2f24bfa0bf.js": "/starwars-finder/precache-manifest.4fdacaea8eadf7fff5d66e2f24bfa0bf.js",
+    "precache-manifest.95510a69aa5fb399c70a4636b965a905.js": "/starwars-finder/precache-manifest.95510a69aa5fb399c70a4636b965a905.js",
     "service-worker.js": "/starwars-finder/service-worker.js",
     "static/css/main.ab646d28.chunk.css.map": "/starwars-finder/static/css/main.ab646d28.chunk.css.map",
     "static/media/logo.png": "/starwars-finder/static/media/logo.0e885114.png",
