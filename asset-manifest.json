@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/starwars-finder/static/css/main.ab646d28.chunk.css",
+    "main.js": "/starwars-finder/static/js/main.0a166453.chunk.js",
+    "main.js.map": "/starwars-finder/static/js/main.0a166453.chunk.js.map",
+    "runtime-main.js": "/starwars-finder/static/js/runtime-main.4ef2e4bf.js",
+    "runtime-main.js.map": "/starwars-finder/static/js/runtime-main.4ef2e4bf.js.map",
+    "static/js/2.e7179aaa.chunk.js": "/starwars-finder/static/js/2.e7179aaa.chunk.js",
+    "static/js/2.e7179aaa.chunk.js.map": "/starwars-finder/static/js/2.e7179aaa.chunk.js.map",
+    "index.html": "/starwars-finder/index.html",
+    "precache-manifest.787b35e3e512ef3d6f642a9b86da62b6.js": "/starwars-finder/precache-manifest.787b35e3e512ef3d6f642a9b86da62b6.js",
+    "service-worker.js": "/starwars-finder/service-worker.js",
+    "static/css/main.ab646d28.chunk.css.map": "/starwars-finder/static/css/main.ab646d28.chunk.css.map",
+    "static/media/logo.png": "/starwars-finder/static/media/logo.0e885114.png",
+    "static/media/sort-az.28a2950e.svg": "/starwars-finder/static/media/sort-az.28a2950e.svg",
+    "static/media/sort-za.a0382eab.svg": "/starwars-finder/static/media/sort-za.a0382eab.svg"
+  }
+}
