@@ -1,0 +1,20 @@
+.wrapError {
+  display: flex;
+  padding: 20px;
+}
+.wrapError img {
+  width: 30%;
+  height: auto;
+}
+.wrapDescription {
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.wrapDescription p {
+  font-size: 48px;
+  font-weight: 700;
+}
