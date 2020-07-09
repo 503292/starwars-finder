@@ -12,6 +12,7 @@ const Starships = ({ starships }) => {
     starships.map(el => {
       getStarWarsStarships(el)
         .then(s => setStarship(prev => [...prev, s.data]))
+        // eslint-disable-next-line no-console
         .catch(err => console.log(err, 'no starships'));
       return 0;
     });
@@ -19,11 +20,14 @@ const Starships = ({ starships }) => {
 
   useEffect(() => {
     getinfoStarship();
+    // eslint-disable-next-line
   }, []);
 
   useEffect(() => {
     setStarship('');
+
     getinfoStarship();
+    // eslint-disable-next-line
   }, [starships]);
 
   return (

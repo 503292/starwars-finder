@@ -13,6 +13,7 @@ const Planets = ({ planets }) => {
     planets.map(el => {
       getStarWarsPlanets(el)
         .then(p => setPlanets(prev => [...prev, p.data]))
+        // eslint-disable-next-line no-console
         .catch(err => console.log(err, 'no planets'));
       return 0;
     });
@@ -20,11 +21,13 @@ const Planets = ({ planets }) => {
 
   useEffect(() => {
     getInfoPlanets();
+    // eslint-disable-next-line
   }, []);
 
   useEffect(() => {
     setPlanets('');
     getInfoPlanets();
+    // eslint-disable-next-line
   }, [planets]);
 
   return (
