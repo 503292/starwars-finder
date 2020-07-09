@@ -1,0 +1,23 @@
+.container {
+  width: 320px;
+  margin: 0 auto;
+  // background-color: rgb(252, 252, 151);
+
+  @media (min-width: 768px) {
+    width: 768px;
+    // background-color: rgb(151, 202, 243);
+  }
+  @media (min-width: 1200px) {
+    width: 1200px;
+    // background-color: rgb(236, 154, 154);
+  }
+  @media (min-width: 1440px) {
+    width: 1440px;
+    // background-color: rgb(143, 248, 143);
+  }
+}
+
+.wrapHeader {
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,33 @@
+.wrapOneFilm {
+  // border: 1px solid grey;
+  // border-radius: 10px;
+  background-color: #fff;
+  padding: 10px;
+}
+
+.wrapOneFilm h4 span {
+  font-weight: 400;
+  color: grey;
+}
+
+.wrapOneFilm h4,
+.wrapOneFilm h3 {
+  margin: 0;
+}
+
+.wrapListsItems {
+  border-top: 1px solid grey;
+}
+.descriptions {
+  text-align: justify;
+}
+
+@media (min-width: 768px) {
+  .wrapListsItems {
+    display: flex;
+
+    & div:first-child {
+      margin-right: 80px;
+    }
+  }
+}

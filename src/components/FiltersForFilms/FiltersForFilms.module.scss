@@ -1,0 +1,33 @@
+.wrapSort {
+  text-align: center;
+  margin-bottom: 10px;
+
+  // & button {
+  //   border: none;
+  //   outline: none;
+  // }
+  & .clearBtn {
+    // width: 72px;
+    margin-right: 10px;
+  }
+
+  & input {
+    border: none;
+    border-bottom: 1px solid grey;
+    margin-right: 10px;
+  }
+
+  & button,
+  input {
+    line-height: 1.4;
+  }
+
+  & button:hover {
+    background-color: rgb(179, 176, 176);
+  }
+}
+
+.sortIcon {
+  width: 15px;
+  fill: grey;
+}
