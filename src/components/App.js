@@ -9,13 +9,6 @@ import { getStarWarsFilms } from '../services/api';
 
 import css from './App.module.scss';
 
-
-
-export default App;
-
-export default App;
-
-
 const App = () => {
   const [films, setFilms] = useState([]);
   const [episodeId, setEpisodeId] = useState('');
