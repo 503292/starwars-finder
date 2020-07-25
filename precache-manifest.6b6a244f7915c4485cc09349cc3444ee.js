@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a29e9f0452a8ef6c537af5fffc102a84",
+    "revision": "eaca9388f816da590bea0ee911494ead",
     "url": "/starwars-finder/index.html"
   },
   {
-    "revision": "39a7f3319c199e2be5c6",
-    "url": "/starwars-finder/static/css/main.ab646d28.chunk.css"
+    "revision": "c3539d593bc13453aca2",
+    "url": "/starwars-finder/static/css/main.d88c0be8.chunk.css"
   },
   {
-    "revision": "eb4d1d53e62f9bb39302",
-    "url": "/starwars-finder/static/js/2.e7179aaa.chunk.js"
+    "revision": "a9e203cf15a8ca19650d",
+    "url": "/starwars-finder/static/js/2.4a1f4954.chunk.js"
   },
   {
-    "revision": "39a7f3319c199e2be5c6",
-    "url": "/starwars-finder/static/js/main.140cf163.chunk.js"
+    "revision": "c3539d593bc13453aca2",
+    "url": "/starwars-finder/static/js/main.55dc4f75.chunk.js"
   },
   {
     "revision": "16fe017c605dc076ad5e",
     "url": "/starwars-finder/static/js/runtime-main.4ef2e4bf.js"
+  },
+  {
+    "revision": "ade8dcc9fbd516874bb9c557b509f6ad",
+    "url": "/starwars-finder/static/media/error-dart-veider.ade8dcc9.gif"
   },
   {
     "revision": "0e88511488367041a1f3cc9f6c350174",
